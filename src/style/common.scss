@@ -1,0 +1,21 @@
+/* @media screen and (min-width: 1536px) {
+    .container {
+        width: calc(1180 / 1920 * 100%);
+    }
+}
+
+@media screen and (min-width: 900px) and (max-width: 1535px) {
+    .container {
+        width: 70%;
+    }
+}
+
+@media screen and (max-width: 899px) {
+    .container {
+        width: 100%;
+    }
+} */
+.container {
+    margin: auto;
+    width: 1000px;
+}
