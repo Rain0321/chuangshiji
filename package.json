@@ -1,0 +1,37 @@
+{
+  "name": "chuangshiji",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-eslint": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-unit-jest": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "swiper": "^4.5.1"
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "chuangshiji@0.1.0",
+  "scripts": {
+    "serve": "webpack -w --config ./config/webpack.dev.js",
+    "build": "webpack --config ./config/webpack.prod.js"
+  },
+  "dependencies": {
+    "@wangeditor/editor-for-vue": "^1.0.2",
+    "core-js": "^3.31.0",
+    "crypto-js": "^4.1.1",
+    "echarts": "^5.4.2",
+    "element-ui": "^2.9.2",
+    "formidable": "^2.1.2",
+    "js-md5": "^0.7.3",
+    "multer": "^1.4.5-lts.1",
+    "postcss-loader": "^7.1.0",
+    "postcss-pxtorem": "^6.0.0",
+    "socket.io": "^4.6.2",
+    "socket.io-client": "^4.6.2",
+    "vue-loader": "^15.10.0",
+    "vue-socket.io": "^3.0.10",
+    "xgplayer": "^3.0.5"
+  }
+}
