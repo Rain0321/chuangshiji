@@ -1,0 +1,27 @@
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??clonedRuleSet-3.use[2]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./node_modules/vue-loader/lib/index.js??vue-loader-options!./src/components/uploadBigFile.vue?vue&type=style&index=0&id=df40080a&lang=scss&scoped=true& ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.wrapper[data-v-df40080a] {
+  padding: 10px;
+}
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??clonedRuleSet-3.use[2]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./node_modules/vue-loader/lib/index.js??vue-loader-options!./src/views/admin/course/createCourse.vue?vue&type=style&index=0&id=36e2e4c1&lang=scss&scoped=true& ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.wrapper[data-v-36e2e4c1] {
+  padding: 30px;
+  background-color: #fff;
+  overflow: auto;
+}
+.wrapper .directory[data-v-36e2e4c1] {
+  display: flex;
+}
+.wrapper .directory .form-style[data-v-36e2e4c1] {
+  display: flex;
+  margin-right: 20px;
+}
+.wrapper .directory .form-style[data-v-36e2e4c1] .el-input__inner {
+  width: 290px;
+}
+.wrapper .directory .form-style .upload-demo[data-v-36e2e4c1] {
+  display: flex;
+}

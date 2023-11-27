@@ -1,0 +1,21 @@
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??clonedRuleSet-1.use[2]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js!./node_modules/vue-loader/lib/index.js??vue-loader-options!./src/views/admin/article/Article.vue?vue&type=style&index=0&id=345c7dd3&leng=scss&scoped=true&lang=css& ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+.admin-article[data-v-345c7dd3] {
+    padding-top: 23px;
+.btns-part[data-v-345c7dd3] {
+        margin: 20px 5px;
+        display: flex;
+.add-button[data-v-345c7dd3] {
+            border: 1px solid grey;
+            border-radius: 12px;
+            width: 115px;
+            line-height: 36px;
+            text-align: center;
+            margin-right: 12px;
+            font-size: 14px;
+}
+}
+}
+

@@ -1,0 +1,499 @@
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??clonedRuleSet-3.use[2]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./node_modules/vue-loader/lib/index.js??vue-loader-options!./src/components/Header.vue?vue&type=style&index=0&id=61dd7a3d&lang=scss&scoped=true& ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.header-top[data-v-61dd7a3d] {
+  background-color: #fff;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  width: 100%;
+  height: 62px;
+  line-height: 62px;
+  border-bottom: 1px solid #ccc;
+}
+.header-top .header-container .header-content[data-v-61dd7a3d] {
+  display: flex;
+  justify-content: space-between;
+  height: 64px;
+  line-height: 68px;
+}
+.header-top .header-container .header-content .logo[data-v-61dd7a3d] {
+  margin-right: 50px;
+  cursor: pointer;
+}
+.header-top .header-container .header-content .logo img[data-v-61dd7a3d] {
+  width: 13.1rem;
+  height: 3.1rem;
+}
+.header-top .header-container .header-content .search[data-v-61dd7a3d] {
+  position: relative;
+  border: 1px solid #c69c47;
+  flex: 1;
+  width: 287px;
+  height: 32px;
+  margin: 15px 70px 0 12px;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -o-border-radius: 2px;
+  border-radius: 2px;
+}
+.header-top .header-container .header-content .search select[data-v-61dd7a3d] {
+  width: 82px;
+  height: 32px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: none;
+  outline: none;
+}
+.header-top .header-container .header-content .search input[data-v-61dd7a3d] {
+  position: absolute;
+  top: 0;
+  left: 82px;
+  width: 195px;
+  height: 29px;
+  padding-top: 2px;
+  padding-left: 9px;
+  border: none;
+  outline: none;
+}
+.header-top .header-container .header-content .search span[data-v-61dd7a3d] {
+  position: absolute;
+  top: 0;
+  right: 4px;
+  line-height: 35px;
+}
+.header-top .header-container .header-content .search span img[data-v-61dd7a3d] {
+  width: 31px;
+  height: 31px;
+}
+.header-top .header-container .header-content .guide[data-v-61dd7a3d] {
+  font-size: 14px;
+  position: relative;
+}
+.header-top .header-container .header-content .guide div[data-v-61dd7a3d]:last-child {
+  background-color: #fff;
+  z-index: 100;
+  position: absolute;
+  top: 61px;
+  left: -45px;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+.header-top .header-container .header-content .user[data-v-61dd7a3d] {
+  font-size: 14px;
+  width: 199px;
+  margin-left: 40px;
+  position: relative;
+}
+.header-top .header-container .header-content .user div[data-v-61dd7a3d] {
+  display: inline-block;
+}
+.header-top .header-container .header-content .user ul[data-v-61dd7a3d] {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  position: absolute;
+  top: 61px;
+  left: 10px;
+  padding: 10px;
+  background-color: ghostwhite;
+  text-align: center;
+}
+.header-top .header-container .header-content .user ul li[data-v-61dd7a3d] {
+  line-height: 27px;
+  margin-bottom: 3px;
+}
+.header-top .header-container .header-content .admin[data-v-61dd7a3d] {
+  font-size: 14px;
+  position: relative;
+  margin-right: 25px;
+}
+.header-top .header-container .header-content .admin[data-v-61dd7a3d]::after {
+  content: "";
+  width: 0;
+  font-size: 0;
+  border: 5px solid transparent;
+  border-top-color: #000;
+  position: absolute;
+  top: 47%;
+  left: 31px;
+}
+.header-top .header-container .header-content .admin ul[data-v-61dd7a3d] {
+  border: 1px solid #ccc;
+  position: absolute;
+  top: 61px;
+  left: -5px;
+  padding: 10px;
+  background-color: ghostwhite;
+  text-align: center;
+  width: 50px;
+}
+.header-top .header-container .header-content .admin ul li[data-v-61dd7a3d] {
+  line-height: 27px;
+  margin-bottom: 3px;
+}
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??clonedRuleSet-3.use[2]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./node_modules/vue-loader/lib/index.js??vue-loader-options!./src/components/Footer.vue?vue&type=style&index=0&id=40ab164b&lang=scss&scoped=true& ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/* @media screen and (min-width: 1536px) {
+    .container {
+        width: calc(1180 / 1920 * 100%);
+    }
+}
+
+@media screen and (min-width: 900px) and (max-width: 1535px) {
+    .container {
+        width: 70%;
+    }
+}
+
+@media screen and (max-width: 899px) {
+    .container {
+        width: 100%;
+    }
+} */
+.container[data-v-40ab164b] {
+  margin: auto;
+  width: 1000px;
+}
+.footer[data-v-40ab164b] {
+  width: 100%;
+  /*  position: fixed;
+   bottom: 0; */
+  background-color: #999999;
+  height: 95px;
+  margin-top: 32px;
+}
+.footer .footer-content[data-v-40ab164b] {
+  line-height: 95px;
+  text-align: center;
+}
+.footer .footer-content span[data-v-40ab164b] {
+  font-size: 12px;
+  color: #fff;
+  margin: 0 25px;
+}
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??clonedRuleSet-3.use[2]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./node_modules/vue-loader/lib/index.js??vue-loader-options!./src/components/goTop.vue?vue&type=style&index=0&id=48c690ed&lang=scss&scoped=true& ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.go-top[data-v-48c690ed] {
+  position: fixed;
+  bottom: 113px;
+  right: 200px;
+}
+.go-top img[data-v-48c690ed] {
+  width: 30px;
+}
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??clonedRuleSet-3.use[2]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./node_modules/vue-loader/lib/index.js??vue-loader-options!./src/App.vue?vue&type=style&index=0&id=7ba5bd90&lang=scss& ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/* @media screen and (min-width: 1536px) {
+    .container {
+        width: calc(1180 / 1920 * 100%);
+    }
+}
+
+@media screen and (min-width: 900px) and (max-width: 1535px) {
+    .container {
+        width: 70%;
+    }
+}
+
+@media screen and (max-width: 899px) {
+    .container {
+        width: 100%;
+    }
+} */
+.container {
+  margin: auto;
+  width: 1000px;
+}
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+html,
+body {
+  height: 100%;
+}
+#app {
+  height: 100%;
+  overflow: scroll;
+  position: relative;
+  width: 100%;
+  /* background: url(/static/img/web/home.jpg) no-repeat;
+  background-size: 100% auto;
+  background-attachment: scroll; */
+  background-color: #fafafb;
+}
+#app .content {
+  margin-top: 63px;
+}
+.design-img {
+  /* position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: url(/static/img/web/home.jpg) no-repeat;
+  background-size: 100% auto; 
+  background-attachment: scroll;*/
+  width: 100%;
+  z-index: -1;
+  position: absolute;
+  top: 0;
+}
+.design-img img {
+  opacity: 0.5;
+  width: 100%;
+}
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??clonedRuleSet-3.use[2]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./node_modules/vue-loader/lib/index.js??vue-loader-options!./src/components/articleList.vue?vue&type=style&index=0&id=ff68da58&lang=scss&scoped=true& ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.article-list[data-v-ff68da58] {
+  padding: 29px 14px 6px 24px;
+  background-color: #fff;
+}
+.article-list ul li[data-v-ff68da58] {
+  margin-bottom: 18px;
+  display: flex;
+}
+.article-list ul li span[data-v-ff68da58]:first-child {
+  font-size: 15px;
+  flex: 1;
+}
+.article-list ul li span[data-v-ff68da58]:nth-child(2) {
+  background-color: #faf6e9;
+  color: #c49c47;
+  padding: 1px 5px;
+  font-size: 12px;
+  margin-right: 12px;
+  border-radius: 2px;
+}
+.article-list ul li span[data-v-ff68da58]:last-child {
+  font-size: 12px;
+}
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??clonedRuleSet-3.use[2]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./node_modules/vue-loader/lib/index.js??vue-loader-options!./src/views/Home.vue?vue&type=style&index=0&id=fae5bece&lang=scss& ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.page-home .title {
+  display: flex;
+  padding-left: 3px;
+  margin-bottom: 11px;
+  margin-top: 28px;
+}
+.page-home .title h2 {
+  font-size: 22px;
+  font-weight: 500;
+  color: #666666;
+  flex: 1;
+  position: relative;
+  padding-left: 13px;
+}
+.page-home .title h2::before {
+  content: "";
+  border-left: 5px solid #c69c47;
+  height: 21px;
+  position: absolute;
+  left: -4px;
+  top: 4px;
+}
+.page-home .title .more {
+  position: relative;
+}
+.page-home .title .more span {
+  font-size: 13px;
+  color: #999999;
+  font-weight: 550;
+  margin-right: 20px;
+}
+.page-home .title .more img {
+  position: absolute;
+  top: 11px;
+  right: 0px;
+  width: 14px;
+}
+.page-home .part-banner {
+  display: flex;
+  width: 100%;
+  height: 285px;
+}
+.page-home .part-banner .left-banner {
+  position: relative;
+  background-color: beige;
+  flex: 1;
+  overflow: hidden;
+}
+.page-home .part-banner .left-banner .el-carousel {
+  height: 285px;
+}
+.page-home .part-banner .left-banner .el-carousel__container {
+  height: 285px;
+}
+.page-home .part-banner .left-banner .el-carousel__item {
+  height: 285px;
+  overflow: hidden;
+}
+.page-home .part-banner .left-banner .el-carousel__item img {
+  width: 100%;
+  height: 285px;
+}
+.page-home .part-banner .left-banner .el-carousel__item p {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  background-color: bisque;
+  opacity: 0.5;
+}
+.page-home .part-banner .right-tool {
+  width: 30.47%;
+  margin-left: 8px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.page-home .part-banner .right-tool .img-wapper {
+  width: 48.4%;
+  height: 48.4%;
+}
+.page-home .part-banner .right-tool .img-wapper:nth-child(2n) {
+  margin-left: 9px;
+}
+.page-home .part-banner .right-tool .img-wapper:nth-child(3n+3), .page-home .part-banner .right-tool .img-wapper:nth-child(2n+4) {
+  margin-top: 7px;
+}
+.page-home .part-banner .right-tool .img-wapper img {
+  width: 100%;
+  height: 100%;
+}
+.page-home .part-nav {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 25px 10px 51px;
+  margin-top: 14px;
+  justify-content: center;
+  background-color: #fff;
+  height: 200px;
+}
+.page-home .part-nav div {
+  border: 0.5px solid #ccc;
+  width: 22%;
+  height: 50%;
+  word-break: break-all;
+  padding-left: 26px;
+  padding-bottom: 12px;
+}
+.page-home .part-nav div:nth-child(-n+4) {
+  border-top: none;
+}
+.page-home .part-nav div:nth-child(n+5) {
+  border-bottom: none;
+  padding-top: 14px;
+}
+.page-home .part-nav div:first-child, .page-home .part-nav div:nth-child(5) {
+  border-left: none;
+}
+.page-home .part-nav div:last-child, .page-home .part-nav div:nth-child(4) {
+  border-right: none;
+}
+.page-home .part-nav div:nth-child(2), .page-home .part-nav div:nth-child(6) {
+  flex: 1;
+}
+.page-home .part-nav div h3 {
+  font-size: 20px;
+  font-weight: 540;
+}
+.page-home .part-nav div p {
+  color: #6d6d6d;
+  font-size: 12px;
+  text-transform: capitalize;
+}
+.page-home .part-nav div span {
+  font-size: 12px;
+  color: #999999;
+}
+.page-home .part-course .list-course {
+  display: flex;
+  justify-content: space-between;
+}
+.page-home .part-course .list-course .container-course {
+  width: 222px;
+}
+.page-home .part-course .list-course .container-course .el-card .el-card__body {
+  height: 213px;
+  position: relative;
+}
+.page-home .part-course .list-course .container-course .el-card img {
+  width: 100%;
+  height: 125px;
+}
+.page-home .part-course .list-course .container-course .el-card h4 {
+  font-size: 14px;
+  font-weight: normal;
+  padding: 5px 10px;
+}
+.page-home .part-course .list-course .container-course .el-card .info-course {
+  padding: 6px 12px 10px;
+  font-size: 12px;
+  position: absolute;
+  bottom: 1px;
+  width: 88%;
+}
+.page-home .part-course .list-course .container-course .el-card .info-course span:last-child {
+  background-color: #c69c47;
+  color: #fff;
+  padding: 1px 2px;
+  border-radius: 2px;
+  float: right;
+}
+.page-home .part-case .list-case {
+  display: flex;
+  justify-content: space-between;
+}
+.page-home .part-case .list-case .container-case {
+  width: 300px;
+}
+.page-home .part-case .list-case .container-case .el-card__body {
+  padding: 30px 16px;
+}
+.page-home .part-case .list-case .container-case .case-title {
+  font-size: 15px;
+  display: flex;
+}
+.page-home .part-case .list-case .container-case .case-title span {
+  width: 200px;
+  word-break: break-all;
+  display: inline-block;
+  flex: 1;
+}
+.page-home .part-case .list-case .container-case .case-title img {
+  width: 40px;
+  height: 31px;
+  margin-left: 10px;
+}
+.page-home .part-case .list-case .container-case .case-content {
+  margin-top: 23px;
+  width: 100%;
+  word-break: break-all;
+  height: 69px;
+  font-size: 13px;
+  overflow: hidden;
+  display: -webkit-box;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+}
+.page-home .part-case .enter-case {
+  color: #fff;
+  background-color: #c69c47;
+}
+.page-home .part-test .list-test {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 3px;
+}
+.page-home .part-test .list-test img {
+  width: 300px;
+}

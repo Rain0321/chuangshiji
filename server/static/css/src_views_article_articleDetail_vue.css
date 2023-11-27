@@ -1,0 +1,47 @@
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??clonedRuleSet-3.use[2]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./node_modules/vue-loader/lib/index.js??vue-loader-options!./src/views/article/articleDetail.vue?vue&type=style&index=0&id=0e2b9ee4&lang=scss&scoped=true& ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.wrapper[data-v-0e2b9ee4] {
+  padding: 30px 0;
+}
+.wrapper .article-detail .article-title[data-v-0e2b9ee4] {
+  text-align: center;
+}
+.wrapper .article-detail .article-content[data-v-0e2b9ee4] {
+  padding: 15px 5px;
+}
+.wrapper .article-detail .article-bg[data-v-0e2b9ee4] {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 8px;
+  border-bottom: 1px solid gray;
+  margin: 20px 0 7px;
+  align-items: center;
+}
+.wrapper .article-detail .article-bg .article-bg-left[data-v-0e2b9ee4] {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex: 1;
+}
+.wrapper .article-detail .article-bg .article-bg-left div[data-v-0e2b9ee4]:first-child {
+  display: flex;
+  align-items: center;
+}
+.wrapper .article-detail .article-bg .article-bg-left div:first-child span[data-v-0e2b9ee4] {
+  margin-right: 30px;
+}
+.wrapper .article-detail .article-bg .article-bg-left div:first-child .article-likes[data-v-0e2b9ee4]:hover {
+  color: red;
+}
+.wrapper .article-detail .article-bg .article-bg-left div:first-child .article-likes .icon[data-v-0e2b9ee4] {
+  position: relative;
+  top: 5px;
+}
+.wrapper .article-detail .article-bg .article-bg-right[data-v-0e2b9ee4] {
+  width: 115px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 35px;
+}

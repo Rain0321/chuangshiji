@@ -1,0 +1,101 @@
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??clonedRuleSet-3.use[2]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./node_modules/vue-loader/lib/index.js??vue-loader-options!./src/components/Title.vue?vue&type=style&index=0&id=6f792258&lang=scss&scoped=true& ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.title[data-v-6f792258] {
+  display: flex;
+  padding: 10px;
+  margin-bottom: 11px;
+}
+.title h2[data-v-6f792258] {
+  font-size: 16px;
+  font-weight: 500;
+  color: #666666;
+  flex: 1;
+  position: relative;
+  padding-left: 13px;
+}
+.title h2[data-v-6f792258]::before {
+  content: "";
+  border-left: 5px solid #c69c47;
+  height: 21px;
+  position: absolute;
+  left: 2px;
+  top: 0px;
+}
+.title .more[data-v-6f792258] {
+  position: relative;
+}
+.title .more span[data-v-6f792258] {
+  font-size: 13px;
+  color: #999999;
+  font-weight: 550;
+  margin-right: 20px;
+}
+.title .more img[data-v-6f792258] {
+  position: absolute;
+  top: 35%;
+  right: 0px;
+  width: 14px;
+}
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??clonedRuleSet-3.use[2]!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/dist/cjs.js!../node_modules/sass-loader/dist/cjs.js!./node_modules/vue-loader/lib/index.js??vue-loader-options!./src/views/typeDetail.vue?vue&type=style&index=0&id=30bfcf76&lang=scss& ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.page-types .el-breadcrumb__item {
+  margin: 10px 0 15px 1px;
+}
+.page-types .nav-container {
+  display: flex;
+  height: 40px;
+  line-height: 40px;
+}
+.page-types .nav-container .btn-tool {
+  color: #fff;
+  background-color: #c49c47;
+  border-radius: 3px;
+  font-size: 14px;
+  margin-left: 15px;
+  padding: 0px 18px;
+  height: 35px;
+  line-height: 35px;
+}
+.page-types .nav-container .el-menu {
+  flex: 1;
+  display: flex;
+  justify-content: space-around;
+}
+.page-types .nav-container .el-menu li {
+  height: 40px;
+  line-height: 40px;
+}
+.page-types .detail-menu {
+  display: flex;
+  width: 100%;
+  margin-top: 20px;
+}
+.page-types .detail-menu .menu-left {
+  width: 70%;
+  height: 300px;
+  background-color: #fff;
+}
+.page-types .detail-menu .menu-right {
+  margin-left: 20px;
+  background-color: #fff;
+  width: 30%;
+}
+.page-types .detail-submenu {
+  background-color: #fff;
+  height: 300px;
+  margin-top: 20px;
+  padding: 0 10px;
+}
+.page-types .detail-submenu .submenu-container {
+  margin-top: 15px;
+  display: flex;
+}
+.page-types .detail-submenu .submenu-container .submenu-left {
+  width: 70%;
+}
+.page-types .detail-submenu .submenu-container .submenu-right {
+  width: 30%;
+  margin-left: 20px;
+}

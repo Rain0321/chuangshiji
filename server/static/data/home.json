@@ -1,0 +1,83 @@
+{
+    "data": {
+        "banner": [
+            {"id": 1, "img": "/static/img/home/1.png", "toherf": "/article/detail/1", "text": "一个人的烟花"},
+            {"id": 2, "img": "/static/img/home/2.jpg", "toherf": "/article/detail/2", "text": "一个人的烟花哈哈哈"},
+            {"id": 3, "img": "/static/img/home/4.jpg", "toherf": "/article/detail/3", "text": "一个人的烟花呵呵呵"},
+            {"id": 4, "img": "/static/img/home/3.jpg", "toherf": "/article/detail/4", "text": "一个人的烟花娃娃阿瓦"}
+        ],
+        "types": [
+            {"id": 1, "text": "品牌", "goLink": "/type/", "e_text": "brand", 
+            "children": [{"c_id": 1, "c_text": "品牌定位"},
+                        {"c_id": 2, "c_text": "市场调研"},
+                        {"c_id": 3, "c_text": "品牌呈现"}]
+            },
+            {"id": 2, "text": "公关", "goLink": "/type/", "e_text": "public relations", 
+            "children": [{"c_id": 1, "c_text": "领导人公关"},
+                        {"c_id": 2, "c_text": "企业公关"},
+                        {"c_id": 3, "c_text": "新闻写作"},
+                        {"c_id": 4, "c_text": "媒体和KOL管理"},
+                        {"c_id": 5, "c_text": "危机公关"},
+                        {"c_id": 6, "c_text": "社交平台管理"},
+                        {"c_id": 7, "c_text": "技术传播"}]
+            },
+            {"id": 3, "text": "广告", "goLink": "/type/", "e_text": "advertising", 
+            "children": [{"c_id": 1, "c_text": "广告创意"},
+                        {"c_id": 2, "c_text": "广告投放"}]
+            },
+            {"id": 4, "text": "活动", "goLink": "/type/", "e_text": "event", 
+            "children": [{"c_id": 1, "c_text": "活动策划"},
+                        {"c_id": 2, "c_text": "活动执行"},
+                        {"c_id": 3, "c_text": "活动行业"}]
+            },
+            {"id": 5, "text": "整合营销", "goLink": "/type/", "e_text": "IMC", 
+            "children": []
+            },
+            {"id": 6, "text": "用户增长", "goLink": "/type/", "e_text": "user growth", 
+            "children": [{"c_id": 1, "c_text": "To B"},
+                        {"c_id": 2, "c_text": "To C"}]
+            },
+            {"id": 7, "text": "政府和投资者关系", "goLink": "/type/", "e_text": "GR & IR", 
+            "children": [{"c_id": 1, "c_text": "政府关系GR"},
+                        {"c_id": 2, "c_text": "投资者关系IR"}]
+            },
+            {"id": 8, "text": "团队和预算", "goLink": "/type/", "e_text": "team and budget", 
+            "children": [{"c_id": 1, "c_text": "团队搭建"},
+                        {"c_id": 2, "c_text": "预算管理"}]
+            }
+        ],
+        "course": [{"id": 1,"img": "/static/img/home/course.jpg", "title": "创新企业怎么通过\"内容营销\"推广新产品",  "teacher": "张明", "num": 10, "link": "/course/detail/:id"},  
+                   {"id": 2,"img": "/static/img/home/course.jpg", "title": "创新企业怎么推广新产品？",  "teacher": "张明", "num": 10, "link": "/course/detail/:id"},
+                   {"id": 3,"img": "/static/img/home/course.jpg", "title": "创新企业怎么通过\"内容营销\"推广新产品",  "teacher": "张明", "num": 10, "link": "/course/detail/:id"},
+                   {"id": 4,"img": "/static/img/home/course.jpg", "title": "创新企业怎么推广新产品？",  "teacher": "张明", "num": 10, "link": "/course/detail/:id"}
+                ],
+        "case": [{"id": 1, 
+                  "title":"企业如何利用内容营销进行有效市场宣传", 
+                  "content": "中国目前的大部分品牌，无论在包装、广告、还是产品上，都是没有温度的品牌。而每一次的品牌跨界，都是对产品的一次新的内容赋能，让内容驱动情感，情感带动消费，而不仅仅依靠产品本身来驱动消费。怎么做内容营销？方法实在是太多，各家有各家的套路，下文中提及一些方法，集百家所长，希望能给正在计划做内容营销的创作者一些灵感，找到适合的营销路径。",
+                  "link": "/case/detail/:id"
+                },
+                {"id": 2, 
+                "title":"企业如何利用内容营销进行有效市场宣传", 
+                "content": "中国目前的大部分品牌，无论在包装、广告、还是产品上，都是没有温度的品牌。而每一次的品牌跨界，都是对产品的一次新的内容赋能，让内容驱动情感，情感带动消费，而不仅仅依靠产品本身来驱动消费。怎么做内容营销？方法实在是太多，各家有各家的套路，下文中提及一些方法，集百家所长，希望能给正在计划做内容营销的创作者一些灵感，找到适合的营销路径。",
+                "link": "/case/detail/:id"
+                },
+                {"id": 3, 
+                "title":"企业如何利用内容营销进行有效市场宣传", 
+                "content": "中国目前的大部分品牌，无论在包装、广告、还是产品上，都是没有温度的品牌。而每一次的品牌跨界，都是对产品的一次新的内容赋能，让内容驱动情感，情感带动消费，而不仅仅依靠产品本身来驱动消费。怎么做内容营销？方法实在是太多，各家有各家的套路，下文中提及一些方法，集百家所长，希望能给正在计划做内容营销的创作者一些灵感，找到适合的营销路径。",
+                "link": "/case/detail/:id"
+                }
+            ],
+        "article": [
+            {"id": 1, "title": "大量实体灭亡，那么什么又会崛起？", "type": "公关/社交平台管理", "goodNum": 56, "creatTime": "2019-05-06", "link": "/article/detail/:id"},
+            {"id": 2, "title": "状告上千家山寨店，鹿角巷到底经历了什么", "type": "公关/新闻写作", "goodNum": 56, "creatTime": "2019-05-06", "link": "/article/detail/:id"},
+            {"id": 3, "title": "新人写作需要避开的十个雷点", "type": "公关/社交平台管理", "goodNum": 56, "creatTime": "2019-05-06", "link": "/article/detail/:id"},
+            {"id": 4, "title": "为何麦当劳和肯德基同为快餐行业佼佼者，两者的市值却天差地别？", "type": "公关/社交平台管理", "goodNum": 56, "creatTime": "2019-05-06", "link": "/article/detail/:id"},
+            {"id": 5, "title": "大量实体灭亡，那么什么又会崛起？", "type": "活动/活动执行", "goodNum": 56, "creatTime": "2019-05-06", "link": "/article/detail/:id"},
+            {"id": 6, "title": "大量实体灭亡，那么什么又会崛起？", "type": "公关/社交平台管理", "goodNum": 56, "creatTime": "2019-05-06", "link": "/article/detail/:id"},
+            {"id": 7, "title": "烫平平：如何在下沉市场做营销？", "type": "公关/社交平台管理", "goodNum": 56, "creatTime": "2019-05-06", "link": "/article/detail/:id"},
+            {"id": 8, "title": "秋季三城齐发，三四级市场营销大戏正式登场？", "type": "公关/社交平台管理", "goodNum": 56, "creatTime": "2019-05-06", "link": "/article/detail/:id"},
+            {"id": 9, "title": "大量实体灭亡，那么什么又会崛起？", "type": "公关/社交平台管理", "goodNum": 56, "creatTime": "2019-05-06", "link": "/article/detail/:id"},
+            {"id": 10, "title": "大量实体灭亡，那么什么又会崛起？", "type": "公关/社交平台管理", "goodNum": 56, "creatTime": "2019-05-06", "link": "/article/detail/:id"}
+        ]
+    }
+}
