@@ -1,3 +1,6 @@
 git add .
 git remote add origin git地址  ssh连接  token连接
 git commit -m ""
+git branch 分支名称   创建分支
+git checkout 分支名称  切换分支
+git chackout -b 分支名称  创建并切换分支
