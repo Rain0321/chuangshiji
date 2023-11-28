@@ -1,12 +1,3 @@
-aaaa
-
-
-aaa
-
-aaaaa
-aaa
-aaaa
-
-
-
-功能1
+git add .
+git remote add origin git地址  ssh连接  token连接
+git commit -m ""
